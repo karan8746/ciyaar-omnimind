@@ -1,2 +1,2 @@
-# ciyaar-omnimind
-ciyaar-omnimind
+# CIYAAR-AI ASSISTANT
+CIYAAR-AI ASSISTANT
